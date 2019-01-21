@@ -576,7 +576,7 @@ button.swiper-pagination-bullet{border:none;margin:0;padding:0;-webkit-box-shado
 .site_head_play{background-color:#181818}
 .site_head .head_inner{position:relative;height:70px;margin:0 auto;z-index:99;-webkit-transition:width .2s ease-in-out;transition:width .2s ease-in-out}
 .site_logo{position:relative;float:left;width:155px;margin-top:20px}
-.site_logo .link_logo{display:block;width:160px;height:30px;background:url(../img/logo.png) no-repeat;background-position:50% 50%;background-size:cover}
+.site_logo .link_logo{display:block;width:160px;height:30px;background:url(../img/logo_max.png) no-repeat;background-position:50% 50%;background-size:cover}
 .site_logo .link_inner{visibility:hidden}
 .site_channel{position:absolute;top:22px;left:180px}
 .site_channel .channel_title{position:relative;top:2px;padding-left:10px;font-size:18px;cursor:default;display:inline-block}
