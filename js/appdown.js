@@ -1,6 +1,6 @@
 $(function() {
 if(MAC.UserAgent.mobile){
-var appdw1 = '<div class="layui-waper"><div class="layer-iframe"><div class="layer-content layer_notice"><a href="javascript:;" class="close">跳过</a><a href="javascript:;" class="link">打开APP</a></div></div></div>';
+var appdw1 = '<div class="layui-waper"><div class="layer-iframe"><div class="layer-content layer_notice"><a href="https://www.iktv8.com/user/login.html" class="close">注册账号</a><a href="javascript:;" class="link">进入首页</a></div></div></div>';
 (function() {
     if (!isWeiXin()) {
         if ($.cookie('appdw1') == null) {
