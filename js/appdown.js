@@ -21,7 +21,7 @@ var appdw1 = '<div class="layui-waper"><div class="layer-iframe"><div class="lay
     }
 })();
 }else{
-var appdw2 = '<div class="layer-shade"></div><div class="layui-layer"><div class="layer-wraper anim-scale"><div class="layer-poster"><a href="/" target="_blank"></a></div><div class="layer-content"><span class="layer-title">扫码访问</span><p>打开手机微信扫一扫即可打开手机版</p><div class="code"></div><a class="link" href="javascript:;"  target="_blank">参观一下</a><a class="close" href="javascript:;"></a></div></div></div>';
+var appdw2 = '<div class="layer-shade"></div><div class="layui-layer"><div class="layer-wraper anim-scale"><div class="layer-poster"><a href="/" target="_blank"></a></div><div class="layer-content"><span class="layer-title">扫码访问</span><p>打开手机微信扫一扫关注本站公众号</p><div class="code"></div><a class="link" href="javascript:;"  target="_blank">参观一下</a><a class="close" href="javascript:;"></a></div></div></div>';
 (function() {
     if (!isWeiXin()) {
         if ($.cookie('appdw2') == null) {
